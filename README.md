@@ -1,9 +1,9 @@
 # python-quicker-formula-ocr
  将搜集到的公式ocr引擎集合起来，与quicker结合方便使用
- 
+
 ## 动作
 
-- [https://getquicker.net/Sharedaction?code=f73ca43a-98c6-475d-a3cc-08d7c216a695][1]
+- https://getquicker.net/Sharedaction?code=9666d404-be36-45de-438c-08d7f4f4652e 
 
 ## 能力
 
@@ -18,6 +18,10 @@
 部分接口申请教程见https://tianruoocr.cn/interface  
 百度公式和学而思公式接口可自行百度  
 
+[动作地址]: https://getquicker.net/Sharedaction?code=9666d404-be36-45de-438c-08d7f4f4652e
+
+
+
 ## 依赖
 
 ### 其他
@@ -27,5 +31,4 @@ pip install requests
 pip install latex2mathml
 ```
 
-[1]:	
 [2]:	https://getquicker.net
